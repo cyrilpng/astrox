@@ -1,16 +1,16 @@
 ---
-author: Sat Naing
+author: Cyril Png
 pubDatetime: 2022-09-23T15:22:00Z
-title: Adding new posts in AstroPaper theme
-postSlug: adding-new-posts-in-astropaper-theme
+title: Ailish
+postSlug: ailish
 featured: true
 draft: false
 tags:
-  - docs
+  - nude
+  - leak
 ogImage: ""
 description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+  Some leak and nude directly from Ailish.
 ---
 
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
